@@ -1,0 +1,476 @@
+G2
+
+Wunder: 1800 DPI / 50 In-Game
+
+Jankos: 1600 DPI / 50 In-Game
+
+Caps: 3200 DPI / 50 In-Game
+
+Perkz: 3400 DPI / 50 In-Game
+
+Mikyx: 1600 DPI / 50 In-Game
+
+
+Fnatic
+
+Selfmade: 800 DPI / 25 In-Game (Mouse Acceleration: On)
+
+Nemesis: 2000 DPI / 50 In-Game
+
+Rekkles: 1600 DPI / 50 In-Game
+
+Hylissang: 1200 DPI / 50 In-Game
+
+
+MAD Lions
+
+Carzzy: 1900 DPI / 55 In-Game
+
+Kaiser: 3000 DPI / 50 In-Game
+
+
+Rogue
+
+Finn: 2100 DPI / 50 In-Game
+
+Inspired: 1600 / 60 In-Game
+
+Larssen: 3200 DPI / 50 In-Game
+
+Hans sama: 1500 DPI / 60 In-Game
+
+
+SK Gaming
+
+Jenax: 2400 DPI / 50 In-Game
+
+ZaZee: 2300 DPI / 50 In-Game
+
+Crownshot: 2500 DPI / 50 In-Game
+
+
+Excel Esports
+
+Caedrel: 2400 DPI / 50 In-Game
+
+Patrik: 1600 DPI / 40 In-Game
+
+
+FC Schalke 04
+
+Odoamne: 1600 DPI / 50 In-Game
+
+Abbedagge: 1900 DPI / 50 In-Game
+
+Neon: 800 DPI / 50 In-Game
+
+
+Misfits Gaming
+
+Razork: 3800 DPI / 50 In-Game
+
+Febiven: 3000 DPI / 50 In-Game
+
+Kobbe: 1400 DPI / 50 In-Game
+
+
+Team Vitality
+
+Milica: 1600 DPI / 50 In-Game
+
+Comp: 1500 DPI / 55 In-Game
+
+
+Origen
+
+Alphari: 1800 DPI / 50 In-Game
+
+Upset: 2700 DPI / 50 In-Game
+
+Destiny: 1000 DPI / 50 In-Game
+
+
+LCS Teams
+
+
+Team Liquid
+
+Impact: 1000 DPI / 50 In-Game (Mouse Acceleration: On)
+
+Broxah: 800 DPI / 50 In-Game
+
+Jensen: 530 DPI / 50 In-Game
+
+Tactical: 2200 DPI / 50 In-Game
+
+CoreJJ: 1500 DPI / 50 In-Game
+
+
+Cloud9
+
+Nisqy: 1200 DPI / 50 In-Game
+
+Zven: 2400 DPI / 50 In-Game
+
+
+Team SoloMid
+
+Broken Blade: 2400 DPI / 40 In-Game
+
+Bjergsen: 1600 DPI / 50 In-Game
+
+Doublelift: 1800 DPI / 30 In-Game
+
+
+FlyQuest
+
+PowerOfEvil: 2200 DPI / 50 In-Game
+
+WildTurtle: 1500 DPI / 45 In-Game
+
+
+Golden Guardians
+
+Closer: 3200 DPI / 50 In-Game
+
+Damonte: 600 DPI / 50 In-Game
+
+FBI: 1600 DPI / 50 In-Game
+
+
+Evil Geniuses
+
+Goldenglue: 1600 DPI / 50 In-Game
+
+Jiizuke: 1800 DPI / 40 In-Game
+
+Bang: 1800 DPI / 20 In-Game (Mouse Acceleration: On)
+
+
+100 Thieves
+
+Ssumday: 1800 DPI / 50 In-Game
+
+Ryoma: 2000 DPI / 50 In-Game
+
+Cody Sun: 1500 DPI / 50 In-Game
+
+
+Counter Logic Gaming
+
+Pobelter: 3500 DPI / 50 In-Game
+
+Stixxay: 1800 DPI / 50 In-Game
+
+Wind: 5250 DPI / 50 In-Game
+
+
+Dignitas
+
+V1per: 1000 DPI / 60 In-Game
+
+Dardoch: 800 DPI / 50 In-Game
+
+Fenix: 3600 DPI / 35 In-Game
+
+Froggen: 800 DPI / 50 In-Game
+
+Johnsun: 1300 DPI / 50 In-Game
+
+
+Immortals
+
+Eika: 1600 DPI / 50 In-Game
+
+Insanity: 2500 DPI / 50 In-Game
+
+Altec: 1800 DPI / 30 In-Game
+
+Apollo: 1600 DPI / 50 In-Game
+
+
+LCK Teams
+
+
+DAMWON Gaming
+
+Showmaker: 2500 DPI / 100 In-Game
+
+
+DRX
+
+Doran: 1600 DPI / 50 In-Game
+
+Chovy: 1750 DPI / 50 In-Game
+
+Deft: 800 DPI / 60 In-Game
+
+
+Gen.G
+
+Bdd: 1800 DPI / 85 In-Game
+
+Ruler: 2100 DPI / 45 In-Game
+
+
+T1
+
+Faker: 1800 DPI / 80 In-Game (Mouse Acceleration: On)
+
+Teddy: 1600 DPI / 50 In-Game (Mouse Acceleration: On)
+
+Ellim: 1600 DPI
+
+Gumayusi: 800 DPI / 50 In-Game
+
+
+Team Dynamics
+
+Kuzan: 950 DPI
+
+deokdam: 2350 DPI
+
+
+Hanwha Life Esports
+
+Viper: 1120 DPI / 50 In-Game
+
+Lehends: 1650 DPI / 50 In-Game
+
+
+LPL Teams
+
+
+TOP Esports
+
+Knight: 1600 DPI / 40 In-Game
+
+
+Invictus Gaming
+
+TheShy: 2000 DPI / 45 In-Game
+
+Rookie: 16000 DPI / 15 In-Game
+
+
+EU National Leagues
+
+
+GamersOrigin
+
+toucouille: 800 DPI / 55 In-Game
+
+SMILEY: 1800 DPI / 50 In-Game
+
+
+Izi Dream
+
+Backlund: 1600 DPI / 50 In-Game
+
+
+LDLC OL
+
+Vetheo: 1500 DPI / 40 In-Game
+
+Exakick: 1000 DPI / 50 In-Game
+
+
+Vitality.Bee
+
+Yoppa: 3500 DPI / 50 In-Game
+
+Saken: 1800 DPI / 50 In-Game
+
+
+ad hoc gaming
+
+Freeze: 1600 DPI / 50 In-Game
+
+
+BIG
+
+Reeker: 3400 DPI / 50 In-Game
+
+Bean: 800 DPI / 50 In-Game
+
+
+EURONICS Gaming
+
+Scarlet: 2400 DPI / 50 In-Game
+
+
+Schalke Evolution
+
+Sertuss: 3000 DPI / 100 In-Game (Mouse Acceleration: On)
+
+Innaxe: 3200 DPI / 50 In-Game
+
+
+mousesports
+
+LIDER: 600 DPI / 45 In-Game
+
+Rueven: 1000 DPI / 100 In-Game
+
+Jeskla: 1500 DPI / 40 In-Game
+
+
+SK Gaming Prime
+
+Tiger: 1700 DPI / 50 In-Game
+
+
+GamerLegion
+
+Nite: 2000 DPI / 50 In-Game
+
+Hjarnan: 2150 DPI / 50 In-Game
+
+
+UOL Sexy Edition
+
+Venzer: 1000 DPI / 50 In-Game
+
+
+Morning Stars
+
+Knighter: 800 DPI / 50 In-Game
+
+
+AGO ROGUE
+
+Zanzarah: 1400 DPI / 45 In-Game
+
+Czekolad: 3000 DPI / 50 In-Game
+
+Woolite: 1600 DPI / 40 In-Game
+
+
+K1CK Neosurf
+
+iBo: 800 DPI / 50 In-Game
+
+Pukistyle: 400 DPI / 40 In-Game
+
+
+For The Win
+
+Truuklax: 900 DPI / 55 In-Game
+
+Xakyy: 3500 DPI / 35 In-Game
+
+
+BCN Squad
+
+Miniduke: 1800 DPI / 50 In-Game
+
+
+Cream Real Betis
+
+DahVys: 1700 DPI / 50 In-Game
+
+Siler: 2150 DPI / 50 In-Game
+
+Adryh: 4800 DPI / 50 In-Game
+
+
+eMonkeyz
+
+Chapapi: 2400 DPI / 50 In-Game
+
+
+G2 Arctic
+
+Supa: 1600 DPI / 50 In-Game
+
+
+Movistar Riders
+
+Elyoya: 800 or 1600 DPI / 50 In-Game
+
+Xico: 1000 DPI / 50 In-Game
+
+
+S2V Esports
+
+Nixerino: 800 DPI / 30 In-Game
+
+
+Team Queso
+
+Rayito: 1800 DPI / 55 In-Game
+
+
+UCAM Esports Club
+
+BACA: 3000 DPI / 50 In-Game
+
+Rafitta: 1800 DPI / 35 In-Game
+
+Plasma: 1800 DPI / 50 In-Game
+
+
+Vodafone Giants
+
+Th3Antonio: 1000 DPI / 40 In-Game (Mouse Acceleration: On)
+
+Lamabear: 2200 DPI / 50 In-Game
+
+PrettyGRE: 2250 DPI / 50 In-Game
+
+Attila: 1850 DPI / 50 In-Game
+
+
+BT Excel
+
+Send0o: 2700 DPI / 50 In-Game
+
+Hatrixx: 2200 DPI / 50 In-Game
+
+Deadly: 1800 DPI / 50 In-Game
+
+
+Fnatic Rising
+
+MagiFelix: 800 DPI / 50 In-Game
+
+
+NA Academies
+
+
+Cloud9 Academy
+
+Palafox: 800 DPI / 50 In-Game
+
+K1ng: 750 DPI / 50 In-Game
+
+
+TSM Academy
+
+Dhokla: 600 DPI / 50 In-Game
+
+Lost: 1600 DPI / 50 In-Game
+
+
+100T Thieves Academy
+
+FakeGod: 1500 DPI / 50 In-Game
+
+Tenacity: 800 DPI / 50 In-Game
+
+Prismal: 3200 DPI / 50 In-Game
+
+
+Golden Guardians Academy
+
+Ablazeolive: 3150 DPI / 50 In-Game
+
+
+Dignitas Academy
+
+Lourlo: 800 DPI / 30 In-Game
+
+
+FlyQuest Academy
+
+Triple: 1200 DPI / 50 In-Game
