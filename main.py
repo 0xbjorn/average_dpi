@@ -20,8 +20,13 @@ def avg_setting(indx):
 	else: 
 		print("In-Game\t\t", sum(setting_list) / len(setting_list))
 
+	return sum(setting_list) / len(setting_list)
 
 
 print("Average from: https://www.reddit.com/r/leagueoflegends/comments/i6mzi2/the_longest_list_of_pro_players_mouse_settings/")
-avg_setting(':')
-avg_setting('/')
+eDPI = avg_setting(':') * avg_setting('/')
+print(f"eDPI (sens * in-game): {eDPI}")
+my_dpi = input("What is your dpi?: ")
+print(f"The in-game setting would come down to {round(int(eDPI) / int(my_dpi))} with your dpi")
+
+
